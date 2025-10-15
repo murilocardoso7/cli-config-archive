@@ -9,7 +9,7 @@ ip address 192.168.101.10 255.255.255.0
 no shutdown
 exit
 ip default-gateway 192.168.101.1
-ip domain-name eve.lab
+ip domain-name teste.com
 crypto key generate rsa modulus 1024
 ip ssh version 2
 ip ssh authentication-retries 3
