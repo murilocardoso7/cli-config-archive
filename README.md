@@ -5,7 +5,6 @@
 [![EVE-NG](https://img.shields.io/badge/EVE--NG-virtualization-blue?logo=cisco)]()
 [![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?logo=cisco)]()
 
-🇧🇷 [Leia em Português](./README.pt.md)
 
 </div>
 
