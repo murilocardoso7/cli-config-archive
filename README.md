@@ -11,7 +11,7 @@
 ---
 
 A personal archive of **terminal configurations** used for learning and reference.  
-Includes commands and setups from **routers, switches, and firewalls** used in **EVE-NG** and other lab environments.
+Includes commands and setups from **routers, switches, and firewalls** used in lab environments.
 
 📁 **Folders**
 - `routers/` — router terminal configs  
